@@ -1,6 +1,6 @@
 # MySensors & openHAB 2.3
 
-openHAB 2.3 seem to has an official binding for MySensors.
+openHAB 2.3 seem to has an official binding for [MySensors](https://www.mysensors.org/).
 
 Sources:
 * https://forum.mysensors.org/topic/7176/openhab-2-2-binding/
