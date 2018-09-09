@@ -7,5 +7,6 @@ This repository hosts all my notes and code regarding Arduino, RaspberryPi, Smar
 
 
 ## Projects
-* [Serial Gateway for MySensors](./MySensors-Gateway/README.md)
+* [MySensors Serial Gateway](./MySensors-Gateway/README.md)
+* [MySensors Plant Sensor](./MySensors-Plant/README.md)
 
