@@ -44,7 +44,7 @@ $ feature:install openhab-misc-market
 $ feature:info openhab-misc-market
 ```
 ###### 2. Install MySensor via PaperUI
-![search](/img/search_binding.png)
+![search](./img/search_binding.png)
 
 ##### B. Manually
 ###### Install
@@ -63,4 +63,4 @@ $ bundle:list | grep MySensors
 #### Overall Test
 When you see the following entry while adding a new thing you really got it :)
 
-![add](/img/add_thing.png)
+![add](./img/add_thing.png)
