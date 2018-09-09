@@ -2,4 +2,4 @@
 
 
 
-!(board)[./serial_gateway_bb.png]
+![board](./serial_gateway_bb.png)
