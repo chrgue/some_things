@@ -8,7 +8,7 @@ Sources:
 
 
 For this reason we will install it fully manual or semi manual via the Eclipse IoT Marketplace.
-In both cases we are facing the drawback of [installing the dependencies manually](https://forum.mysensors.org/topic/7176/openhab-2-2-binding/8).
+In both cases we're facing the drawback of [installing the dependencies manually](https://forum.mysensors.org/topic/7176/openhab-2-2-binding/8).
 
 Note: Beware of that the Marketplace-approach has the advantage of getting the latest version of the MySensors-Binding. In the fully manual approach you have to choose a version on your own. 
 
@@ -61,6 +61,6 @@ $ bundle:list | grep MySensors
 ```
 
 #### Overall Test
-When you see the following entry while adding a new thing you really got it :)
+When you see the following entry while adding a new thing you're really got it :)
 
 ![add](./img/add_thing.png)
